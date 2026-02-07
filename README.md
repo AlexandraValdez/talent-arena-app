@@ -214,5 +214,5 @@ All rights reserved by the project team and partner organizations.
 
 ---
 
-**Built with ⚡ by Alexandra Valdéz, Christian Rodríguez, Anna Latsabidze, Youssef Chennoufi, Adama O. Gaye**  
+**Built with ⚡ by Alexandra Valdéz**  
 *From Event to Ecosystem - The Future of Talent Arena Starts Now*
